@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		78023D1929C0E87200EDC5F3 /* penguinTrail.sks in Resources */ = {isa = PBXBuildFile; fileRef = 78023D1829C0E87200EDC5F3 /* penguinTrail.sks */; };
 		788271C629BF9F1600299FA6 /* swoosh3.caf in Resources */ = {isa = PBXBuildFile; fileRef = 788271BE29BF9F1500299FA6 /* swoosh3.caf */; };
 		788271C729BF9F1600299FA6 /* swoosh1.caf in Resources */ = {isa = PBXBuildFile; fileRef = 788271BF29BF9F1500299FA6 /* swoosh1.caf */; };
 		788271C829BF9F1600299FA6 /* whack.caf in Resources */ = {isa = PBXBuildFile; fileRef = 788271C029BF9F1500299FA6 /* whack.caf */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		78023D1829C0E87200EDC5F3 /* penguinTrail.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = penguinTrail.sks; sourceTree = "<group>"; };
 		788271BE29BF9F1500299FA6 /* swoosh3.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh3.caf; sourceTree = "<group>"; };
 		788271BF29BF9F1500299FA6 /* swoosh1.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = swoosh1.caf; sourceTree = "<group>"; };
 		788271C029BF9F1500299FA6 /* whack.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whack.caf; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 				788271CE29BF9F1C00299FA6 /* sliceFuse.sks */,
 				788271D029BF9F1C00299FA6 /* sliceHitBomb.sks */,
 				788271CF29BF9F1C00299FA6 /* sliceHitEnemy.sks */,
+				78023D1829C0E87200EDC5F3 /* penguinTrail.sks */,
 			);
 			path = Project23_100days;
 			sourceTree = "<group>";
@@ -160,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				788271CD29BF9F1600299FA6 /* sliceBombFuse.caf in Resources */,
+				78023D1929C0E87200EDC5F3 /* penguinTrail.sks in Resources */,
 				788271D229BF9F1C00299FA6 /* sliceHitEnemy.sks in Resources */,
 				788271CB29BF9F1600299FA6 /* swoosh2.caf in Resources */,
 				78BFD86F29BF9D7300D8CF8E /* Main.storyboard in Resources */,
